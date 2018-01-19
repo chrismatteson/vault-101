@@ -1,6 +1,15 @@
-# vagrant-vault-cluster
+# Vault 101
 
-This repo contains scripts as well as a Vagrantfile to spin up either a single node with Vault + Consul or a 3 node setup with Vault + Consul
+This repo contains scripts as well as a Vagrantfile to complete the Vault 101 training course.
+The only command to get this running is:
+
+```
+vagrant up
+```
+
+Additional documentation below is provided for reference only.
+
+
 
 ## Single node instructions
 Within this repository diretory as working directory execute the following:

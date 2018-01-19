@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -x
 
 CONSUL_SERVER_COUNT="${1}"
 

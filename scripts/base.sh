@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -x
 
 logger() {
   DT=$(date '+%Y/%m/%d %H:%M:%S')
