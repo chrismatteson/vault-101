@@ -1,7 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-server_count = ENV['SERVER_COUNT'] || "3"
+server_count = ENV['SERVER_COUNT'] || "1"
 
 
 Vagrant.configure("2") do |config|
