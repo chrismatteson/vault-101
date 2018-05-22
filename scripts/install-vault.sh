@@ -8,7 +8,7 @@ logger() {
 logger "Running"
 
 
-VAULT_VERSION="0.9.0.1"
+VAULT_VERSION="0.10.1"
 VAULT_ZIP="vault-enterprise_${VAULT_VERSION}%2Bent_linux_amd64.zip"
 VAULT_URL=${URL:-"https://s3-us-west-2.amazonaws.com/hc-enterprise-binaries/vault/ent/${VAULT_VERSION}/${VAULT_ZIP}"}
 
